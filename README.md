@@ -1,29 +1,31 @@
 <a name="YWNlZW52dw"></a>
 
-<div align="center">
-  <a href="https://files.catbox.moe/y33za2.jpeg">
-    <img src="https://files.catbox.moe/y33za2.jpeg" width="390" alt="Blonde character holding lavender and daisies in a sunlit field">
-  </a>
+<table width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <h1>ACE .ᐟ</h1>
+      <p><code>commit</code> · <code>push</code> · <code>commit</code> · <code>push</code></p>
+      <p><i>i make cute, useful things for SillyTavern, lorebook lovers, and character enjoyers.</i></p>
+      <h3>a little about me</h3>
+      <p>hi, i'm ace. i make little tools for characters and creative workflows because i love when lore feels clearer, image generation takes fewer clicks, and the interface simply gets out of the way.</p>
+      <p>most of my projects live around <strong>SillyTavern</strong>, and i make sure they feel good on both desktop and mobile.</p>
 
-  <h1>ACE .ᐟ</h1>
-
-  <p><code>commit</code> · <code>push</code> · <code>commit</code> · <code>push</code></p>
-  <p><i>i make cute, useful things for SillyTavern, lorebook lovers, and character enjoyers.</i></p>
-
-  <a href="https://t.me/aceeenvw">
-    <img src="https://img.shields.io/badge/TELEGRAM-8E739F?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=8E7952" alt="Telegram">
-  </a>
+      <p>
+        <a href="https://t.me/aceeenvw">
+          <img src="https://img.shields.io/badge/TELEGRAM-8E739F?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=8E7952" alt="Telegram">
+        </a>
   <a href="https://janitorai.com/profiles/895c6c07-6a53-4420-bff5-b874db870b32_profile-of-aceenvw">
-    <img src="https://img.shields.io/badge/JANITORAI-B999AA?style=for-the-badge&amp;logoColor=white&amp;labelColor=9D8B3D" alt="JanitorAI profile">
-  </a>
-</div>
-
-## a little about me
-
-hi, i'm ace. i make little tools for characters and creative workflows because
-i love when lore feels clearer, image generation takes fewer clicks, and the
-interface simply gets out of the way. most of my projects live around
-**SillyTavern**, and i make sure they feel good on both desktop and mobile.
+          <img src="https://img.shields.io/badge/JANITORAI-B999AA?style=for-the-badge&amp;logoColor=white&amp;labelColor=9D8B3D" alt="JanitorAI profile">
+        </a>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://files.catbox.moe/y33za2.jpeg">
+        <img src="https://files.catbox.moe/y33za2.jpeg" width="300" alt="Blonde character holding lavender and daisies in a sunlit field">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## things i've made
 
@@ -62,14 +64,14 @@ interface simply gets out of the way. most of my projects live around
   </tr>
 </table>
 
-## little github numbers
+<h2 align="center">little github things <sub>(˶ᵔ ᵕ ᵔ˶)</sub></h2>
 
 <div align="center">
   <a href="https://github.com/aceeenvw?tab=repositories">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=aceeenvw&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;disable_animations=true&amp;custom_title=a%20few%20tiny%20stats&amp;title_color=8E739F&amp;text_color=8E7952&amp;icon_color=9D8B3D" alt="My GitHub statistics">
+    <img height="155" src="https://github-stats-extended.vercel.app/api?username=aceeenvw&amp;show_icons=true&amp;hide_rank=true&amp;hide=issues,contribs&amp;disable_animations=true&amp;custom_title=my%20github%20at%20a%20glance&amp;bg_color=FFFFFF&amp;border_color=B999AA&amp;border_radius=14&amp;title_color=8E739F&amp;text_color=6A5735&amp;icon_color=9D8B3D" alt="My GitHub statistics">
   </a>
   <a href="https://github.com/aceeenvw?tab=repositories">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aceeenvw&amp;theme=transparent&amp;layout=compact&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=what%20i%20build%20with&amp;title_color=8E739F&amp;text_color=8E7952" alt="Languages I use most">
+    <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aceeenvw&amp;layout=compact&amp;disable_animations=true&amp;custom_title=what%20i%20build%20with&amp;bg_color=FFFFFF&amp;border_color=B999AA&amp;border_radius=14&amp;title_color=8E739F&amp;text_color=6A5735" alt="Languages I use most">
   </a>
 </div>
 
