@@ -48,7 +48,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aceeenvw/notsosillynotsoimages">NotSoSillyNotSoImages</a></h3>
-      <p>using this for generating aaall my images in sillytavern chats with bots! it can store multiple refs with the needed names <33</p>
+      <p>using this for generating aaall my images in sillytavern chats with bots! it can store refs with the needed names <33</p>
       <a href="https://github.com/aceeenvw/notsosillynotsoimages">
         <img src="https://img.shields.io/badge/SEE_THE_EXTENSION-B999AA?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View NotSoSillyNotSoImages">
       </a>
