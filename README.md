@@ -32,7 +32,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aceeenvw/lorebook-compendium">Lorebook Compendium</a></h3>
-      <p>my bilingual visual guide to making lorebooks for SillyTavern and JanitorAI.</p>
+      <p>my visual guide to making lorebooks for SillyTavern and JanitorAI.</p>
       <a href="https://github.com/aceeenvw/lorebook-compendium">
         <img src="https://img.shields.io/badge/OPEN_THE_GUIDE-8E739F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Open Lorebook Compendium">
       </a>
@@ -48,14 +48,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aceeenvw/notsosillynotsoimages">NotSoSillyNotSoImages</a></h3>
-      <p>i put image and video generation right inside the SillyTavern conversation.</p>
+      <p>generating images in sillytavern chats with your bots!</p>
       <a href="https://github.com/aceeenvw/notsosillynotsoimages">
         <img src="https://img.shields.io/badge/SEE_THE_EXTENSION-B999AA?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View NotSoSillyNotSoImages">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aceeenvw/clover-ooc">Clover OOC</a></h3>
-      <p>my bilingual collection of 250 narrative prompts, renders, and mixing tools.</p>
+      <p>my huuuge collection of narrative prompts, renders, and mixing tools. got clothes, hairstyles and poses too!!</p>
       <a href="https://github.com/aceeenvw/clover-ooc">
         <img src="https://img.shields.io/badge/BROWSE_THE_PROMPTS-8E739F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore Clover OOC">
       </a>
