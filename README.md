@@ -39,7 +39,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aceeenvw/ace-entry-track">ACE Entry Track</a></h3>
-      <p>i made this to show active World Info entries, keyword matches, token budgets, and changes.</p>
+      <p>i made this to show active lorebook entries, keyword matches, token budgets, and changes!</p>
       <a href="https://github.com/aceeenvw/ace-entry-track">
         <img src="https://img.shields.io/badge/PEEK_AT_THE_TRACKER-B999AA?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View ACE Entry Track">
       </a>
@@ -48,7 +48,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aceeenvw/notsosillynotsoimages">NotSoSillyNotSoImages</a></h3>
-      <p>generating images in sillytavern chats with your bots!</p>
+      <p>using this for generating aaall my images in sillytavern chats with bots! it can store multiple refs with the needed names <33</p>
       <a href="https://github.com/aceeenvw/notsosillynotsoimages">
         <img src="https://img.shields.io/badge/SEE_THE_EXTENSION-B999AA?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View NotSoSillyNotSoImages">
       </a>
