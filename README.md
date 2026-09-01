@@ -41,7 +41,7 @@
       <h3><a href="https://github.com/aceeenvw/ace-entry-track">ACE Entry Track</a></h3>
       <p>i made this to show active World Info entries, keyword matches, token budgets, and changes.</p>
       <a href="https://github.com/aceeenvw/ace-entry-track">
-        <img src="https://img.shields.io/badge/PEEK_AT_THE_TRACKER-9D8B3D?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View ACE Entry Track">
+        <img src="https://img.shields.io/badge/PEEK_AT_THE_TRACKER-B999AA?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View ACE Entry Track">
       </a>
     </td>
   </tr>
@@ -57,7 +57,7 @@
       <h3><a href="https://github.com/aceeenvw/clover-ooc">Clover OOC</a></h3>
       <p>my bilingual collection of 250 narrative prompts, renders, and mixing tools.</p>
       <a href="https://github.com/aceeenvw/clover-ooc">
-        <img src="https://img.shields.io/badge/BROWSE_THE_PROMPTS-8E7952?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore Clover OOC">
+        <img src="https://img.shields.io/badge/BROWSE_THE_PROMPTS-8E739F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore Clover OOC">
       </a>
     </td>
   </tr>
