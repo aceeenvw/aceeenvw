@@ -3,15 +3,15 @@
 <table width="100%">
   <tr>
     <td width="58%" valign="middle">
-      <h1>ACE .ᐟ</h1>
+      <h1>ACE.ᐟ.ᐟ</h1>
       <p><code>commit</code> · <code>push</code> · <code>commit</code> · <code>push</code></p>
-      <p><i>i make cute, useful things for SillyTavern, lorebook lovers, and character enjoyers.</i></p>
-      <h3>a little about me</h3>
-      <p>hi, i'm ace. i make little tools for characters and creative workflows because i love when lore feels clearer, image generation takes fewer clicks, and the interface simply gets out of the way.</p>
+      <p><i>i make a loooot of things for SillyTavern, lorebook lovers, and character enjoyers ehehe :33</i></p>
+      <h3>a little about me:</h3>
+      <p>hi, i'm ace!! i make little tools for characters and creative workflows because i love when lore feels clearer, image generation takes fewer clicks, and the interface simply gets out of the way.</p>
       <p>most of my projects live around <strong>SillyTavern</strong>, and i make sure they feel good on both desktop and mobile.</p>
       <p>
         <a href="https://t.me/aceeenvw">
-          <img src="https://img.shields.io/badge/TELEGRAM-8E739F?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=8E7952" alt="Telegram">
+          <img src="https://img.shields.io/badge/TELEGRAM-8E739F?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=B999AA" alt="Telegram">
         </a>
   <a href="https://janitorai.com/profiles/895c6c07-6a53-4420-bff5-b874db870b32_profile-of-aceenvw">
           <img src="https://img.shields.io/badge/JANITORAI-B999AA?style=for-the-badge&amp;logoColor=white&amp;labelColor=9D8B3D" alt="JanitorAI profile">
@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-## things i've made
+## things i've made:
 
 <table>
   <tr>
