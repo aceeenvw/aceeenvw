@@ -9,7 +9,6 @@
       <h3>a little about me</h3>
       <p>hi, i'm ace. i make little tools for characters and creative workflows because i love when lore feels clearer, image generation takes fewer clicks, and the interface simply gets out of the way.</p>
       <p>most of my projects live around <strong>SillyTavern</strong>, and i make sure they feel good on both desktop and mobile.</p>
-
       <p>
         <a href="https://t.me/aceeenvw">
           <img src="https://img.shields.io/badge/TELEGRAM-8E739F?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=8E7952" alt="Telegram">
